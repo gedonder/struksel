@@ -13,7 +13,7 @@ Make a directory libraries with the following files:
 Look at the index.html to see a simple example
 
 # examples
-![alt text](https://raw.githubusercontent.com/gedonder/struksel/img/img1.png)
+![alt text](https://raw.githubusercontent.com/gedonder/struksel/img1.png)
 
 # Write your own code 
 ``` javascript
