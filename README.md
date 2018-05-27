@@ -1,11 +1,10 @@
-#+AUTHOR:    Tina Dijkshoorn
 #+EMAIL:     gedonder@gmail.com
 
 # struksel
 struksel.js is a library used in combination with Processing P5.js. To play with particles, forces, attraction, springs
 
 
-## start to run
+# start to run
 Make a directory libraries with the following files:
 - struksel.js
 - P5.min.js or P5.js This file can be downloaded from https://p5js.org/download/
@@ -13,9 +12,10 @@ Make a directory libraries with the following files:
 
 Look at the index.html to see a simple example
 
+# examples
+![alt text](https://raw.githubusercontent.com/gedonder/struksel/img/img1.png)
 
-
-### Write your own code 
+# Write your own code 
 ``` javascript
 function setup() {
     createCanvas(winb, winh);
@@ -49,7 +49,6 @@ function mousePressed() {
     }
 }
 
-
 function  keyPressed()
 {
     console.log(key);
@@ -69,12 +68,9 @@ function  keyPressed()
 	}
 	return;
     }    
-    else console.log(key);
-    
+    else console.log(key);   
 }
-
-
 
 ```
 
-#### 
+#
